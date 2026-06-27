@@ -12,9 +12,9 @@ C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\refint\HeroQue
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\HeroQuest.pdb
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\HeroQuest.genruntimeconfig.cache
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\ref\HeroQuest.dll
-C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\BloodSpells.json
-C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Items.json
-C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Mobs.json
-C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\NPCs.json
-C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Rooms.json
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\HeroQuest.sourcelink.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Json\BloodSpells.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Json\Items.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Json\Mobs.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Json\NPCs.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Json\Rooms.json
