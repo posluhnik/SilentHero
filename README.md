@@ -4,6 +4,9 @@ Maksym Ilnytskyi
 
 maxilnickiy@gmail.com
 
+Installation:
+1. Download zip file and open it in any folder you want.
+2. Or you can type into your console: `bash` and then `git clone [https://github.com/posluhnik/SilentHero.git](https://github.com/posluhnik/SilentHero.git)`
 
 
 How to launch this program:
