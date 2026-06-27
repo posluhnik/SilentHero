@@ -1,0 +1,16 @@
+{
+  "mob_0": {
+    "name": "Wandering Husk",
+    "description": "A mutated servant of the castle. His flesh is distorted, and he screams without words.",
+    "attackMessage": "The husk lunges forward, scratching with sharp, bloody fingers!",
+    "hp": 30.0,
+    "damage": 6.0
+  },
+  "mob_1": {
+    "name": "The Corrupted Sentinel",
+    "description": "A monstrous giant in ruined armor. He used to protect this throne, now he only knows slaughter.",
+    "attackMessage": "The Sentinel crashes his giant broken mace down upon you!",
+    "hp": 75.0,
+    "damage": 14.0
+  }
+}

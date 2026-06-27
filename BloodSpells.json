@@ -1,0 +1,19 @@
+{
+  "spell_0": {
+    "$type": "damage",
+    "name": "Crimson Lance",
+    "description": "Shape your own blood into a sharp spike and hurl it at the enemy.",
+    "damageToUser": 8.0,
+    "useMessage": "You cut your hand and throw a spike of pure crimson energy!",
+    "damage": 25.0
+  },
+  "spell_1": {
+    "$type": "buff",
+    "name": "Boiling Veins",
+    "description": "Make your blood boil with ancient wrath, increasing weapon damage.",
+    "damageToUser": 12.0,
+    "useMessage": "Your blood burns inside you, pushing your physical strength to the absolute limit!",
+    "effect": "damage",
+    "buff": 0.6
+  }
+}

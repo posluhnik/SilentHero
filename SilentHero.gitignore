@@ -1,0 +1,9 @@
+[Bb]in/
+[Ob]j/
+.vs/
+.vscode/
+*.pdb
+*.deps.json
+*.runtimeconfig.json
+*.dll
+*.exe

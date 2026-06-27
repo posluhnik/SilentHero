@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "HeroQuest/1.0.0": {
+        "dependencies": {
+          "Spectre.Console": "0.57.1"
+        },
+        "runtime": {
+          "HeroQuest.dll": {}
+        }
+      },
+      "Spectre.Console/0.57.1": {
+        "dependencies": {
+          "Spectre.Console.Ansi": "0.57.1"
+        },
+        "runtime": {
+          "lib/net10.0/Spectre.Console.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.57.1.0"
+          }
+        }
+      },
+      "Spectre.Console.Ansi/0.57.1": {
+        "runtime": {
+          "lib/net10.0/Spectre.Console.Ansi.dll": {
+            "assemblyVersion": "0.0.0.0",
+            "fileVersion": "0.57.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeroQuest/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Spectre.Console/0.57.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-h/B0CJLR5Ba8yq+iVjjZR9JXMS+8a1syHmHhyZ6w5m8rHDWLGOlaKAhzJanHJL62rZxynLeVOx+43MKvskJ1lA==",
+      "path": "spectre.console/0.57.1",
+      "hashPath": "spectre.console.0.57.1.nupkg.sha512"
+    },
+    "Spectre.Console.Ansi/0.57.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-IFlXdGXOGD4XCK5ybZsXgQo7PE0ZE/pt9YFFWo2cECTipS8DrViLFazx+K00/A+fY1PlHYt1Vqwrjfod4EEckw==",
+      "path": "spectre.console.ansi/0.57.1",
+      "hashPath": "spectre.console.ansi.0.57.1.nupkg.sha512"
+    }
+  }
+}
