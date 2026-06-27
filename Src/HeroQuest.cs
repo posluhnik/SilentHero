@@ -51,11 +51,11 @@ class HeroQuest
     {
         try
         {
-            Rooms = GenerateEverything<Room>.Generate("Rooms.json");
-            Mobs = GenerateEverything<Mob>.Generate("Mobs.json");
-            Items = GenerateEverything<Item>.Generate("Items.json");
-            Npcs = GenerateEverything<NPC>.Generate("NPCs.json");
-            BloodSpells = GenerateEverything<BloodSpell>.Generate("BloodSpells.json");
+            Rooms = GenerateEverything<Room>.Generate("Json/Rooms.json");
+            Mobs = GenerateEverything<Mob>.Generate("Json/Mobs.json");
+            Items = GenerateEverything<Item>.Generate("Json/Items.json");
+            Npcs = GenerateEverything<NPC>.Generate("Json/NPCs.json");
+            BloodSpells = GenerateEverything<BloodSpell>.Generate("Json/BloodSpells.json");
 
             if (Rooms == null || !Rooms.ContainsKey(CurrentRoomId))
             {

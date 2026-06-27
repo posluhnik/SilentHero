@@ -17,3 +17,4 @@ C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Items.json
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Mobs.json
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\NPCs.json
 C:\Users\zheka\source\repos\HeroQuest\HeroQuest\bin\Debug\net10.0\Rooms.json
+C:\Users\zheka\source\repos\HeroQuest\HeroQuest\obj\Debug\net10.0\HeroQuest.sourcelink.json
