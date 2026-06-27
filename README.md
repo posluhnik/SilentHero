@@ -10,7 +10,7 @@ Installation:
 
 
 How to launch this program:
-Simply download all the files into a folder with any name. Then, there are two ways to proceed:
+There are two ways to proceed:
 
 1\. Via the console:
 
