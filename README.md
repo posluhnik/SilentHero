@@ -6,7 +6,7 @@ maxilnickiy@gmail.com
 
 Installation:
 1. Download zip file and open it in any folder you want.
-2. Or you can type into your console: `git clone [https://github.com/posluhnik/SilentHero.git](https://github.com/posluhnik/SilentHero.git)` then project will be in folder SilentHero right where you used this command.
+2. Or you can type into your console: `git clone https://github.com/posluhnik/SilentHero.git` then project will be in folder SilentHero right where you used this command.
 
 
 How to launch this program:
